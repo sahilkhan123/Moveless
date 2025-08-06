@@ -1,0 +1,11 @@
+baselines==0.1.5
+drawsvg==2.1.1
+matplotlib==3.7.5
+networkx==3.1
+numpy==1.22.1
+PyQt5==5.15.11
+qiskit==0.41.0
+qiskit_ibmq_provider==0.20.0
+qiskit_terra==0.23.1
+scikit_learn==1.1.1
+scipy==1.16.1
