@@ -12,7 +12,7 @@ which enables flexible control over:
 - Trap topology  
 - Capacity constraints  
 - Gate types  
-- And other hardware-specific parameters
+- Miscellaneous other hardware-specific parameters
 
 The core logic for dynamic stabilizer scheduling and mapping is implemented in:
 
@@ -40,6 +40,7 @@ If you use **Moveless** in your research, please cite:
   primaryClass = {quant-ph},
   url          = {https://arxiv.org/abs/2508.03914}
 }
+```
 
 If you also make use of the underlying simulator, please additionally cite:
 
